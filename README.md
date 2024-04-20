@@ -1,40 +1,49 @@
-# Hi there, I'm Nagesh Rathod! 👋
+<h2 align="left">Hi 👋! My name is Nagesh Rathod and I'm a Full stack web developer, from Gangapur Maharashtra </h2>
 
-I'm a passionate Full Stack Web Developer with expertise in building web applications using a variety of technologies. Welcome to my GitHub profile!
+###
 
-## About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 💻 Full Stack Web Developer
-- 🌐 Frontend: HTML, CSS, JavaScript, jQuery, GSAP, AJAX, React
-- 🛠️ Backend: Node.js, Express.js
-- 🗃️ Databases: MongoDB, MySQL
+###
 
-## My Projects
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-Here are a few projects I've worked on:
+###
 
-- [Project 1](link-to-project-1): Description of Project 1
-- [Project 2](link-to-project-2): Description of Project 2
-- [Project 3](link-to-project-3): Description of Project 3
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-Feel free to explore my repositories for more projects and contributions!
+###
 
-## Skills
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-- **Frontend:** HTML, CSS, JavaScript, jQuery, GSAP, AJAX, React
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL
+###
 
-## GitHub Stats
+<br clear="both">
 
-![Nagesh Rathod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nageshrathod&show_icons=true&theme=radical)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-## Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/nagesh-rathod)
-- [Personal Website](https://www.yourwebsite.com)
-
-## Get in Touch
-
-If you'd like to collaborate on a project or have any questions, feel free to reach out!
-
+###
